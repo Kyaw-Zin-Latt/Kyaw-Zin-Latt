@@ -1,6 +1,9 @@
 ### Hello there 👋, I'm Kyaw Zin Latt.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyaw-Zin-Latt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyaw-Zin-Latt)](https://github.com/Kyaw-Zin-Latt/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Zin-Latt)](https://github.com/Kyaw-Zin-Latt/github-readme-stats)
+
 
 <!--
 **Kyaw-Zin-Latt/Kyaw-Zin-Latt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

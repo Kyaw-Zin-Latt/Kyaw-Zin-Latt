@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Kyaw Zin Latt.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyaw-Zin-Latt)](https://github.com/Kyaw-Zin-Latt/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Kyaw-Zin-Latt)](https://github.com/Kyaw-Zin-Latt/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Zin-Latt)](https://github.com/Kyaw-Zin-Latt/github-readme-stats)
 
